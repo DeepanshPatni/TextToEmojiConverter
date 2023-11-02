@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextToEmojiConverter/static/css/main.2327469d.css",
+    "main.js": "/TextToEmojiConverter/static/js/main.7477090e.js",
+    "static/js/787.bf807a48.chunk.js": "/TextToEmojiConverter/static/js/787.bf807a48.chunk.js",
+    "index.html": "/TextToEmojiConverter/index.html",
+    "main.2327469d.css.map": "/TextToEmojiConverter/static/css/main.2327469d.css.map",
+    "main.7477090e.js.map": "/TextToEmojiConverter/static/js/main.7477090e.js.map",
+    "787.bf807a48.chunk.js.map": "/TextToEmojiConverter/static/js/787.bf807a48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2327469d.css",
+    "static/js/main.7477090e.js"
+  ]
+}
